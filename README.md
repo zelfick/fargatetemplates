@@ -1,5 +1,5 @@
-# fargatetemplates
-cloudformation templates for diferent fargate deployments
+# Fargate Templates
+Cloudformation Templates For diferent public fargate deployments
 
 
 Launch an AWS Fargate cluster in a public VPC with an internet gateway 
